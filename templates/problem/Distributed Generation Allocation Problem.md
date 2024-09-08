@@ -26,7 +26,7 @@ proper formatting -->
 
 Copyright 2024 Rene Prenc.
 
-This document is licensed under XXXX.
+This document is licensed under CC-BY-4.0.
 
 <!-- Complete the above accordingly. Copyright and licensing information must be
 consistent with the comment at the beggining of the markdown file -->
